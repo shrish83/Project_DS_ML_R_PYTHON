@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593604074464.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3806539858",
+    "id" : "33D97F9C",
+    "lastKnownWriteTime" : 1593605260,
+    "last_content_update" : 1593605260721,
+    "path" : "~/DS_ML Projects_R_Python/Linear Regression/Predict Movie Revenue via Movie Budget/Gather the Data/Scraping_Table.R",
+    "project_path" : "Gather the Data/Scraping_Table.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
